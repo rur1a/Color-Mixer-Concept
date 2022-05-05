@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4087085e25904afbb3db0429dd9b2904, type: 3}
+  m_Name: UI Produce Prefab Provider
+  m_EditorClassIdentifier: 
+  _producePrefabs:
+  - <Id>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 1361465692473529037, guid: 348f354af5c5d2349b7388707bc1bac0, type: 3}
+  - <Id>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 2695549950362517215, guid: 12f104e7dd809aa4ca48645fd84b079e, type: 3}
+  - <Id>k__BackingField: 3
+    <Prefab>k__BackingField: {fileID: 2026297533659963924, guid: 698f203ae69a4bc449cc2dd60ce1e5f7, type: 3}
+  - <Id>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 503425077907440162, guid: 581b118d05015964ca382d709e71f6d2, type: 3}
+  - <Id>k__BackingField: 5
+    <Prefab>k__BackingField: {fileID: 1043688978951580313, guid: 4f6a13760c706d9489d7131ce2b7e1b9, type: 3}
+  - <Id>k__BackingField: 6
+    <Prefab>k__BackingField: {fileID: 7242456001533761109, guid: 86399c4b390761447ac2035670a96e95, type: 3}
+  - <Id>k__BackingField: 7
+    <Prefab>k__BackingField: {fileID: 7545604265350812125, guid: 3e794177c8dcb074ca05f4629183e9f8, type: 3}

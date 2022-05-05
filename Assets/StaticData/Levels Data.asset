@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4791e134fdee46979787d4fb3e61a0fa, type: 3}
+  m_Name: Levels Data
+  m_EditorClassIdentifier: 
+  <MaxDifference>k__BackingField: 10
+  _levelConfigs:
+  - <TargetColor>k__BackingField: {r: 0.5, g: 1, b: 0, a: 1}
+    <ProduceData>k__BackingField: {fileID: 11400000, guid: f2ad74c3eca2e084a96e023d31cbe67b, type: 2}
+  - <TargetColor>k__BackingField: {r: 0.6666667, g: 0.5, b: 0, a: 1}
+    <ProduceData>k__BackingField: {fileID: 11400000, guid: 73fc37a3941584745989f83bc385d666, type: 2}
+  - <TargetColor>k__BackingField: {r: 0.6666667, g: 0.33333334, b: 0.33333334, a: 1}
+    <ProduceData>k__BackingField: {fileID: 11400000, guid: c32cf2c22123a1448900c98d1eea7e3e, type: 2}
